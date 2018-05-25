@@ -1,0 +1,198 @@
+.navbar-brand{
+  padding: 0px;
+}
+.navbar-brand img{
+  width: 27%;
+  filter: brightness(444%);
+}
+
+.row{
+    margin: 0;
+}
+.navbar{
+  margin-bottom: 0;
+  border-radius: 0 !important;
+}
+.navbar-default{
+  background: #000;
+}
+.navbar-default .navbar-nav > li > a{
+  color: #fff;
+  font-weight: bold;
+}
+.encabezado{
+  /*añadir la imagen*/
+  text-align: center;
+  text-transform: uppercase;
+  background: #49a6d0;
+  color: #fff;
+  padding: 8% 0px;
+}
+.encabezado img{
+  width: 20%;
+  margin: 0 auto;
+  display: block;
+}
+.encabezado p{
+  margin: 50px auto;
+  width: 50%;
+}
+.encabezado button{
+  margin: 0 auto;
+  background: none;
+  border: 2px solid #cacaca;
+  padding: 10px;
+  color: #cacaca;
+}
+
+.nuestracarterainicio{
+    margin: 50px 0px;
+}
+
+.nuestracarterainicio h2{
+  text-align: center;
+}
+.nuestracarterainicio nav .container{
+  border:6px solid #49a6d0;
+  border-left: 0px;
+  border-right: 0px;
+  padding: 20px 0px;
+}
+.nuestracarterainicio nav a{
+  padding-right: 5%;
+  color: #49a6d0;
+  font-weight: bold;
+  font-size: 20px;
+}
+.nuestracarterainicio nav a:last-child{
+  padding-right: 0%;
+}
+
+.segurohome{
+  margin: 50px 0px;
+}
+
+.segurohome .segimgcont{
+  border: 4px solid #49a6d0;
+  border-radius: 100%;
+  padding: 20px 20px;
+  width: 150px;
+}
+
+/*.segurohome .segimgcont:hover{
+  background: rgba(0,232,184,0.27);
+  box-shadow: 0px 1px 193px 4px #0FD;
+}*/
+
+.segurohome .segimgcont img{
+  width: 100px;
+}
+
+.segurohome .segimgcont img:hover{
+  filter: grayscale(100%);
+
+}
+
+.segurohome h1{
+  text-transform: uppercase;
+}
+
+.segurohome a{
+  color:#0abef7;
+  font-weight: bold;
+}
+
+.segurohome button{
+  width: 80%;
+  border-radius: 0px;
+}
+
+.btn-vtls{
+  width: 100%;
+}
+
+.btn-primary{
+  border-radius: 0px;
+}
+
+.cont-contact{
+  width: 100%;
+  background: #49a6d0;
+  padding: 10% 0%;
+}
+
+.cont-contact h2{
+  color: #fff;
+  margin-bottom: 50px;
+}
+
+.formcontact{
+  margin: 0 auto;
+  width: 60%;
+}
+
+.formcontact input{
+  width: 100%;
+  margin-bottom: 35px;
+  height: 40px;
+}
+
+.formcontact textarea{
+  width: 100%;
+  height: 190px;
+}
+
+.formcontact input[type="submit"]{
+  width: 50%;
+}
+
+.formcontact .btn-primary{
+  margin: 0 auto;
+  background: none;
+  border: 2px solid #cacaca;
+  padding: 10px;
+  color: #cacaca;
+}
+
+.formcontact a{
+  color: #fff;
+}
+
+.bgblack{
+  background: #000;
+}
+
+footer{
+    padding: 50px 0px;
+}
+
+footer a{
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+footer a:hover{
+  color: #fff;
+}
+
+footer a:last-child{
+  margin-right: 0px;
+}
+
+footer nav div:nth-child(2){
+  padding-left: 25%;
+}
+
+footer nav div:nth-child(2) div{
+  border: 5px solid #fff;
+  border-left: 0px;
+  border-right: 0px;
+  padding: 10px 0px;
+}
+
+footer img{
+  width: 100%;
+  filter: brightness(444%);
+}
